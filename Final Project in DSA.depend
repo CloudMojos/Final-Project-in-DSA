@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1644319606 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\binarytree.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+
+1644316304 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\priorityqueue.c
+	<stdio.h>
+	<stdlib.h>
+	"binarytree.h"
+
+1644559160 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"binarytree.h"
+	"priorityqueue.h"
+	"countfreq.h"
+	"utils.h"
+	"ui.h"
+	"huffman.h"
+	"files.h"
+
+1643885544 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\errorcheck.c
+	<stdio.h>
+	<stdbool.h>
+
+1644404023 c:\users\joshuel ernest\desktop\dsa\final project in dsa\binarytree.h
+
+1643993361 c:\users\joshuel ernest\desktop\dsa\final project in dsa\priorityqueue.h
+
+1644403867 c:\users\joshuel ernest\desktop\dsa\final project in dsa\countfreq.h
+
+1643888458 c:\users\joshuel ernest\desktop\dsa\final project in dsa\errorcheck.h
+
+1644327662 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\countfreq.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"utils.h"
+	"files.h"
+	"ui.h"
+
+1644316275 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\utils.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"ui.h"
+
+1643954873 c:\users\joshuel ernest\desktop\dsa\final project in dsa\utils.h
+	<stdbool.h>
+	<stdlib.h>
+
+1644558793 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"binarytree.h"
+	"priorityqueue.h"
+	"countfreq.h"
+	"files.h"
+	"utils.h"
+	"ui.h"
+
+1644233138 c:\users\joshuel ernest\desktop\dsa\final project in dsa\huffman.h
+
+1644311760 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\files.c
+	<stdio.h>
+	<stdlib.h>
+	"utils.h"
+	"countfreq.h"
+	"ui.h"
+
+1644202529 c:\users\joshuel ernest\desktop\dsa\final project in dsa\files.h
+
+1644326059 source:c:\users\joshuel ernest\desktop\dsa\final project in dsa\ui.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+	<math.h>
+	"ui.h"
+	"utils.h"
+
+1644325969 c:\users\joshuel ernest\desktop\dsa\final project in dsa\ui.h
+
